@@ -2,3 +2,5 @@
 
 require:
     - play
+    - play -> mockito 0.1
+    - org.hamcrest -> hamcrest-all 1.3
